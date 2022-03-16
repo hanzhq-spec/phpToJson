@@ -4,8 +4,8 @@
  * Copyright hanzhq-spec
  * Licensed under MIT
  *
- * Purpose
- * 输出指定格式BookData.json文件到当前目录，并提供下载。
+ * Purpose:
+ *   - 输出指定格式BookData.json文件到当前目录，并提供下载。
  * 
 /*!*/
 function strsToArray($bookName,$bookId) { 
