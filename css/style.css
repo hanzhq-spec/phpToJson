@@ -2,7 +2,11 @@
  * My style.css v1.0.0 (https://github.com/hanzhq-spec)
  * Copyright The hanzhq-spec Authors
  * Licensed under MIT (https://github.com/hanzhq-spec)
+ *
+ * Purpose:
+ *  - body上下左右居中，灰色背景，适用登录form等小工具的样式设计。
  */
+
 body,
 h1,
 h2,
