@@ -6,7 +6,7 @@
  *
  * Purpose:
  *   - 输出指定格式BookData.json文件到当前目录，并提供下载。
- * 
+ * 20220319
 /*!*/
 function strsToArray($bookName,$bookId) { 
   $bookCover = '/Public/editor/attached/image/20210326/';
